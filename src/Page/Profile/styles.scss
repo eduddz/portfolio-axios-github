@@ -1,0 +1,43 @@
+main {
+    width: min(800px, 100%);
+    background: rgb(245, 245, 245);
+    margin: 50px auto;
+
+    h1 {
+        width: 100%;
+        background: black;
+        color: white;
+        text-align: center;
+        padding: .7rem 0;
+    }
+    
+    .profile {
+        margin: 2rem 1rem 1rem;
+
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    h2 {
+        font-size: 48px;
+        text-align: center;
+    }
+
+    img {
+        width: min(460px, 100%);
+        margin: 2rem 0;
+    }
+
+    .sub-profile {
+        background: rgb(212, 212, 212);
+        padding: 1rem;
+
+        p {
+            font-size: 22px;
+        }
+    }
+
+
+}

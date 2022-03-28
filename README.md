@@ -1,6 +1,7 @@
 # Portfolio with Github 🏆🔥
 
 Versão 1.0
+Torna os projetos do GITHUB em um portfólio
 
 ## Code 👨‍💻
 
